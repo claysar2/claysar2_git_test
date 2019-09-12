@@ -5,3 +5,6 @@ Computer science major
 4th year
 from Williamston, Michigan
 beginner in C++, proficient in Python
+
+Nor Afifah Jamilan
+jamilann@msu.edu
