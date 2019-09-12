@@ -1,6 +1,5 @@
 Name: Sarah Clay 
-Address: 548 M.A.C. Ave
-         East Lansing, MI 48823
+Email Address: claysar2@msu.edu3
 Major: Computer science
 Year: Senior
 From:  Williamston, Michigan
