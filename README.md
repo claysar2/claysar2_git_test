@@ -5,3 +5,6 @@ Major: Computer science
 Year: Senior
 From:  Williamston, Michigan
 Coding experience: beginner in C++, proficient in Python
+
+Name: Thomas DeMastri
+Email: demastri@msu.edu
